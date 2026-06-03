@@ -27,5 +27,6 @@ uploads/
 application-local.properties
 application-secret.properties
 application.yml
-
-uploads/
+application.yaml
+application-*.yml
+application-*.yaml
