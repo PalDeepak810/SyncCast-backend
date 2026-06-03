@@ -1,0 +1,31 @@
+# Maven
+target/
+
+# IntelliJ
+.idea/
+*.iml
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
+logs/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Recordings
+uploads/
+
+# Environment
+.env
+.env.*
+
+# Application overrides
+application-local.properties
+application-secret.properties
+application.yml
+
+uploads/
